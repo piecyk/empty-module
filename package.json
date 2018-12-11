@@ -1,0 +1,9 @@
+{
+  "name": "empty-module",
+  "version": "0.0.1",
+  "main": "lib/cjs/index.js",
+  "module": "lib/esm/index.js",
+  "repository": "git@github.com:piecyk/empty-module.git",
+  "author": "Damian Pieczynski <piecyk@gmail.com>",
+  "license": "MIT"
+}
